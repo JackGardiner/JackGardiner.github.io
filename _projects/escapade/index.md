@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NASA ESCAPADE
-description: Twin-spacecraft NASA science mission to Mars. 
+description: 7-month internship at Rocket Lab, working on twin-spacecraft NASA science mission to Mars. 
 skills: 
 - Propulsion system test
 - Data acquisition
