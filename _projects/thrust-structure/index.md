@@ -11,4 +11,4 @@ main-image: /thrust-structure-2-banner.jpeg
 
 ---
 {% include image-gallery.html images="test-stand-2.JPG, fluids-assembly.JPG, test-stand-4.JPG" height="400" %}
-{% include image-gallery.html images="panels-galore.JPG, in-the-wild.jpg, test-stand-3.JPG, " height="400" %}
+{% include image-gallery.html images="panels-galore.JPG, in-the-wild.jpg, prop-team.jpg, " height="400" %}
