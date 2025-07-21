@@ -6,5 +6,5 @@ skills:
 - Turbomachinery design
 - Advanced additive manufacturing
 - Propulsion systems
-main-image: /sp3-group.jpg 
+main-image: /sp3-group-crop.jpg 
 ---
