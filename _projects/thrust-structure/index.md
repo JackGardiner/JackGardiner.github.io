@@ -7,5 +7,5 @@ skills:
 - Fluid system design
 - Design for manufacture
 - Plasma cutting
-main-image: /thrust-structure.jpg 
+main-image: /thrust-structure-2-banner.jpeg 
 ---
