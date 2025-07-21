@@ -14,4 +14,4 @@ main-image: /sp3-group-crop.jpg
 - Took MIT graduate school lab course on turbomachinery, and classes on advanced additive manufacturing for propulsion systems.
 - Hung out in Boston with awesome propulsion engineers from industry and academia
 
-{% include image-gallery.html images="sp3-dome.JPG, sp3-starship.JPG, sp3-mit.JPG" height="400" %}
+{% include image-gallery.html images="sp3-dome.JPG, sp3-starship.JPG, sp3-mit.JPEG" height="400" %}
