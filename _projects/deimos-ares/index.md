@@ -6,5 +6,5 @@ skills:
 - Mechanical design
 - Composite manufacturing
 - Systems engineering
-main-image: /deimos-test-launch.jpg
+main-image: /deimos-unimelb.jpg
 ---

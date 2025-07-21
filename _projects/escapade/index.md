@@ -6,5 +6,5 @@ skills:
 - Propulsion system test
 - Data acquisition
 - Fluid systems
-main-image: /escapade-team.jpg
+main-image: /esca_team.jpeg
 ---
