@@ -13,7 +13,14 @@ main-image: /daq.jpg
 ---
 
 ## Hardware
-{% include image-gallery.html images="daq-build-2.heic, daq-2.jpg" height="400" %}
+- DIN-mounted components across 24V (sensors, actuators) and 5V (control logic) subsystems.
+- Safety-oriented design with safety relay circuits with e-stops for valve actuation.
+
+{% include image-gallery.html images="daq-build-2.jpg, daq-2.jpg" height="400" %}
 
 ## Control and sequencing
+- Instance (node) of Synnax Labs software running on NUC (Linux)
+- Custom safety logic running in real-time on NUC
+- Non-safety-critical logic and control controlled by networked (optical) PC at control station
+- Developed simulated DAQ/fluid system to SITL test when away from fluid/sensor system. 
 {% include image-gallery.html images="daq-build-1.JPG, synnax.png" height="400" %}
