@@ -17,5 +17,5 @@ Project Florence was ARES Rocketry Team's return to the Spaceport America Cup, c
 
 ## Test Flight Campaign and Competition
 {% include image-gallery.html images="flo-test.JPG, flo-test-launch.jpeg" height="400" %}
-{% include image-gallery.html images="flo-desert" height="400" %}
+{% include image-gallery.html images="flo-desert.jpg" height="400" %}
 
