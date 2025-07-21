@@ -6,5 +6,5 @@ skills:
 - Propulsion system design
 - Structural analysis
 - Thermal analysis
-main-image: /project.webp 
+main-image: /Chamber Assy.png 
 ---
