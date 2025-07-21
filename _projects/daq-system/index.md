@@ -13,6 +13,7 @@ main-image: /daq.jpg
 ---
 
 ## Hardware
-{% include image-gallery.html images="daq-build-1.JPG" height="400" %}
+{% include image-gallery.html images="daq-build-2.heic, daq-2.jpg" height="400" %}
 
 ## Control and sequencing
+{% include image-gallery.html images="daq-build-1.JPG, synnax.png" height="400" %}
