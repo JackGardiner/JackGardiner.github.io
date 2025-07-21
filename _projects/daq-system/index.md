@@ -11,3 +11,8 @@ skills:
 - Networking
 main-image: /daq.jpg 
 ---
+
+## Hardware
+{% include image-gallery.html images="daq-build-1.JPG" height="400" %}
+
+## Control and sequencing
