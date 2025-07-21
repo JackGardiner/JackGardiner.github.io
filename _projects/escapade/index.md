@@ -15,6 +15,6 @@ In 2024, I worked at Rocket Lab as a Propulsion Development intern.  On the NASA
 
 Here are some publicly-available photos courtesy of Rocket Lab:
 
-{% include image-gallery.html images="esca-fluids.jpg, esca-tvac-3.jpg" height="400" %}
+{% include image-gallery.html images="esca_fluids.jpg, esca-tvac-3.jpg" height="400" %}
 {% include image-gallery.html images="esca-tvac-1.jpg, esca-us-team.jpg" height="400" %}
 
