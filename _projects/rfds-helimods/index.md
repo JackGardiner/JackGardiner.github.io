@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Hybrid Rocket Engine
-description: N2O-paraffin 500N demonstrator engine. 
+title: B360 Modifications for Flying Doctor
+description: Internship with HeliMods, working on mechanical development of RFDS King Air aircraft components. 
 skills: 
-- Propulsion system design
-- Structural analysis
-- Thermal analysis
-main-image: /Chamber Assy.png 
+- Mechanical design
+- Design for manufacture
+- Federal aviation certification
+main-image: /rfds-plane.jpg 
 ---

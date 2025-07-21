@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Hybrid Rocket Engine
-description: N2O-paraffin 500N demonstrator engine. 
+title: Space Propulsion and Power Platform
+description: ASME Propulsion conference, hosted by MIT 
 skills: 
-- Propulsion system design
-- Structural analysis
-- Thermal analysis
-main-image: /Chamber Assy.png 
+- Turbomachinery design
+- Advanced additive manufacturing
+- Propulsion systems
+main-image: /sp3-group.jpg 
 ---

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Hybrid Rocket Engine
-description: N2O-paraffin 500N demonstrator engine. 
+title: Project Florence
+description: 30,000ft, Mach 2 sounding rocket.  Flew within 0.7% of target apogee, achieving category 2nd at Spaceport America Cup.
 skills: 
 - Propulsion system design
 - Structural analysis
 - Thermal analysis
-main-image: /Chamber Assy.png 
+main-image: /florence_test_flight.jpg 
 ---

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Hybrid Rocket Engine
-description: N2O-paraffin 500N demonstrator engine. 
+title: NASA ESCAPADE
+description: Twin-spacecraft NASA science mission to Mars. 
 skills: 
-- Propulsion system design
-- Structural analysis
-- Thermal analysis
-main-image: /Chamber Assy.png 
+- Propulsion system test
+- Data acquisition
+- Fluid systems
+main-image: /escapade-team.jpg
 ---
