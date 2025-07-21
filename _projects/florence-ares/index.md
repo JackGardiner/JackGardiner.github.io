@@ -6,5 +6,5 @@ skills:
 - Propulsion system design
 - Structural analysis
 - Thermal analysis
-main-image: /flo-desert.jpg 
+main-image: /flo-test-launch-banner.jpeg 
 ---
