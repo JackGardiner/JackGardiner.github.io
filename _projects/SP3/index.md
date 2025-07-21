@@ -8,3 +8,10 @@ skills:
 - Propulsion systems
 main-image: /sp3-group-crop.jpg 
 ---
+
+- Applied and was accepted as the only undergraduate student to represent Australasian region
+- Presented to industry (Blue Origin, Agile Space, NIST) on research and projects undertaken at university
+- Took MIT graduate school lab course on turbomachinery, and classes on advanced additive manufacturing for propulsion systems.
+- Hung out in Boston with awesome propulsion engineers from industry and academia
+
+{% include image-gallery.html images="sp3-dome.JPG, sp3-starship.JPG" height="400" %}
