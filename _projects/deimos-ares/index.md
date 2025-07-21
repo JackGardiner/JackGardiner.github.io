@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project Deimos
+title: Project Deimos (Spaceport 2023)
 description: 30,000ft competition rocket
 skills: 
 - Mechanical design
