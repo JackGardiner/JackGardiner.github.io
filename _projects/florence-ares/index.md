@@ -6,5 +6,5 @@ skills:
 - Propulsion system design
 - Structural analysis
 - Thermal analysis
-main-image: /florence_test_flight.jpg 
+main-image: /flo-desert.jpg 
 ---
