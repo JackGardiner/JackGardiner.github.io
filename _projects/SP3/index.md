@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Space Propulsion and Power Platform
-description: ASME Propulsion conference, hosted by MIT 
+description: ASME Propulsion conference, hosted by MIT Department of Aeronautics and Astronautics
 skills: 
 - Turbomachinery design
 - Advanced additive manufacturing
@@ -14,4 +14,4 @@ main-image: /sp3-group-crop.jpg
 - Took MIT graduate school lab course on turbomachinery, and classes on advanced additive manufacturing for propulsion systems.
 - Hung out in Boston with awesome propulsion engineers from industry and academia
 
-{% include image-gallery.html images="sp3-dome.JPG, sp3-starship.JPG" height="400" %}
+{% include image-gallery.html images="sp3-dome.JPG, sp3-starship.JPG, sp3-mit.JPG" height="400" %}
