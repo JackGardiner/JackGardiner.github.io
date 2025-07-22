@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NASA ESCAPADE
+title: NASA ESCAPADE Propulsion
 description: 7-month internship at Rocket Lab, working on twin-spacecraft NASA science mission to Mars. 
 skills: 
 - Propulsion test

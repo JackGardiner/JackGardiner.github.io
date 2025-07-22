@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data Acquisition System
+title: Propulsion Data Acquisition System
 description:  High-speed data acquisition system developed for propulsion/fluid systems.
               Includes thermocouple, pressure transducer, and load cell inputs, and pyrotechnic output.
               Runs Synnax node locally and communicates with control computer over fibre-optic (800m range).
