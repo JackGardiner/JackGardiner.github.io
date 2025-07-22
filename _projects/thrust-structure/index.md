@@ -8,6 +8,7 @@ skills:
 - Design for manufacture
 - Plasma cutting
 main-image: /thrust-structure-2-banner.jpeg 
+order: 2
 
 ---
 {% include image-gallery.html images="test-stand-2.JPG, fluids-assembly.JPG, test-stand-4.JPG" height="400" %}

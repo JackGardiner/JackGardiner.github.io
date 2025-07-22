@@ -10,6 +10,7 @@ skills:
 - Control
 - Networking
 main-image: /daq.jpg 
+order: 1
 ---
 
 ## Hardware

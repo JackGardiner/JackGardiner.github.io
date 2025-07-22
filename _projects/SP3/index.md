@@ -7,6 +7,7 @@ skills:
 - Advanced additive manufacturing
 - Propulsion systems
 main-image: /sp3-group-crop.jpg 
+order: 3
 ---
 
 - Applied and was accepted as the only undergraduate student to represent Australasian region

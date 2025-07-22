@@ -7,6 +7,7 @@ skills:
 - Composite manufacturing
 - Systems engineering
 main-image: /deimos-unimelb.jpg
+order: 3
 ---
 
 ## Project Overview

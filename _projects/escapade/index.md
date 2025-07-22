@@ -9,6 +9,7 @@ skills:
 - Hypergolic propellants
 - Requirements management
 main-image: /esca_team.jpeg
+order: 1
 ---
 
 In 2024, I worked at Rocket Lab as a Propulsion Development intern.  On the NASA ESCAPADE mission, I was involved in development and test of several propulsion components, as well as responsible for a propulsion-system-level qualification test rig that simulated the spacecraft fluids system.  It was an incredible experience to work with such a dedicated and talented team, and I learned so much.

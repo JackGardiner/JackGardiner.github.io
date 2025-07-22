@@ -9,6 +9,7 @@ skills:
 - Engineering technical drawing
 - Mechanical design
 main-image: /flo-test-launch-banner-2.jpeg 
+order: 2
 ---
 
 ## Project Overview

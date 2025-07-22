@@ -7,6 +7,7 @@ skills:
 - Structural analysis
 - Thermal analysis
 main-image: /Chamber Assy.png 
+order: 2
 ---
 
 ## Project background
