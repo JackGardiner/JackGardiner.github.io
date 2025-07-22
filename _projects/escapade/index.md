@@ -8,7 +8,7 @@ skills:
 - High pressure fluid systems
 - Hypergolic propellants
 - Requirements management
-main-image: /esca_team.jpeg
+main-image: /esca-fluids-banner.jpg
 order: 1
 ---
 
@@ -19,5 +19,5 @@ Read more about the mission here:  [ESCAPADE](https://rocketlabcorp.com/missions
 Here are some publicly-available photos courtesy of Rocket Lab:
 
 {% include image-gallery.html images="esca_fluids.jpg, esca-2.jpg" height="400" %}
-{% include image-gallery.html images="esca-tvac-1.jpg, esca-us-team.jpg" height="400" %}
+{% include image-gallery.html images="esca-tvac-1.jpg, esca_team.jpeg" height="400" %}
 
